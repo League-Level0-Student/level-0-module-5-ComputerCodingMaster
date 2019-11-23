@@ -13,8 +13,6 @@ public class EvilPolygonsChallenge {
 
 		//2. Set the speed to 100
 
-		int colorChoice=JOptionPane.showOptionDialog(null, "hello", "title", JOptionPane.INFORMATION_MESSAGE, JOptionPane.DEFAULT_OPTION, null, new String[]{"Color 1","Color 2", "Color 3"}, 0);
-		
 		//3. Use if statements to check the the value of colorChoice and set the pen color accordingly 
 		
 		//4. Ask the use how many polygons they want to be drawn.
