@@ -28,16 +28,12 @@ public class ForLoopGauntlet {
 // System.out.println(x);
 // }
 // }
+//int y = 0;
+//for (int x = 2006; x <= 2019; x++) {
+//y = x - 2006;
+//System.out.println("In " + x + " I was " + y + " year(s) old.")//
+//}
+
 
     }
 }
-
-
-
-
-
-
-
-
-
-
