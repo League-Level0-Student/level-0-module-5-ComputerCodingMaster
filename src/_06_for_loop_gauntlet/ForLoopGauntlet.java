@@ -33,7 +33,17 @@ public class ForLoopGauntlet {
 //y = x - 2006;
 //System.out.println("In " + x + " I was " + y + " year(s) old.")//
 //}
-
-
+// for (int x = 0; x < 3; x++) {
+// for (int y = 0; y < 3; y++) {
+// System.out.println(Integer.toString(x)+" "+Integer.toString(y));
+// }
+// }
+        for (int x = 1; x < 4; x++) {
+            for (int y = 4; y < 7; y++) {
+                for (int z = 7; z < 10; z++) {
+                System.out.print(Integer. toString(x)+" "+Integer.toString(y)+" "+Integer.toString(z));
+                }
+            }
+        }
     }
 }
