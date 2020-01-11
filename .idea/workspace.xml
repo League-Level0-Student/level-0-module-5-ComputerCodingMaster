@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="406c7360-0492-45e1-b22b-fcdcecc6b2d6" name="Default Changelist" comment="" />
+    <list default="true" id="0c1deb87-ada5-43f0-b75d-8427f4d2328c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_06_for_loop_gauntlet/ForLoopGauntlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_06_for_loop_gauntlet/ForLoopGauntlet.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,11 +100,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="406c7360-0492-45e1-b22b-fcdcecc6b2d6" name="Default Changelist" comment="" />
-      <created>1578162531265</created>
+      <changelist id="0c1deb87-ada5-43f0-b75d-8427f4d2328c" name="Default Changelist" comment="" />
+      <created>1578766412205</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1578162531265</updated>
+      <updated>1578766412205</updated>
     </task>
     <servers />
   </component>
